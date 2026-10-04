@@ -7,7 +7,7 @@ I build web applications for small businesses, then keep the servers they run on
 - **Full-stack:** React · TypeScript · Node · MySQL · Python
 - 🏆 1st place, Terraform challenge — AWS Student Community Day, Sheridan College
 
-Freelancing part-time for four clients now. Open to full-time cloud, full-stack, and security roles from **January 2027** — Toronto or remote.
+Freelancing part-time for four clients now and wrapping everything until december to start a full-time on january. Open to full-time cloud, full-stack, and security roles from **January 2027** — Toronto or remote.
 
 **Start here**
 
