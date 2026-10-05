@@ -1,5 +1,7 @@
 ### Hi, I'm Juan 👋
 
+I strongly believe that life, privacy and data has to be protected, so I will never stop learning and making my best to follow thosr principles 
+
 I build web applications for small businesses, then keep the servers they run on alive.
 
 - **Cloud & infrastructure:** AWS Certified Solutions Architect – Associate · Terraform · Docker · Linux · NGINX
