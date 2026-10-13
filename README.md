@@ -20,4 +20,5 @@ Freelancing part-time for four clients now and wrapping everything until decembe
 | [daily-bugle-newsroom](https://github.com/Pedriux0/daily-bugle-newsroom) | AI newsroom pulling five external APIs; model costs cut ~10x |
 | [aiops-agent](https://github.com/ElPedro225/aiops-agent) | Anomaly detection with tiered incident response |
 
-🌐 [juanpnaranjo.com](https://juanpnaranjo.com) · 💼 [LinkedIn](https://www.linkedin.com/in/juan-naranjo-a7a72b276/) · ✉️ juanpablonaranjomejia@gmail.com
+🌐 [juanpnaranjo.com](https://juanpnaranjo.com) · 💼 [LinkedIn](https://www.linkedin.com/in/juan-naranjo-a7a72b276/) · ✉️ juan@juanpnaranjo.com
+
