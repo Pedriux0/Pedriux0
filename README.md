@@ -1,6 +1,6 @@
 ### Hi, I'm Juan 👋
 
-# I strongly believe that life, privacy and data has to be protected.
+#### I strongly believe that life, privacy and data has to be protected.
 
 I build web applications for small businesses, then keep the servers they run on alive.
 
